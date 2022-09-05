@@ -60,3 +60,5 @@ btn_del = tk.Button(win, text='←', padx=10, bg=sign_colors, fg='#182039', widt
 
 frame.grid()
 frame.mainloop()
+
+# calculator - tkinter
